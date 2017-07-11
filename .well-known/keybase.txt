@@ -1,0 +1,32 @@
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01200a2e87de6f487f14c1b0bafb1b1a7f8d8f48f82757cd480753e9d679c6ca7ec10a",
+            "host": "keybase.io",
+            "kid": "012032f860824cb3bf87e6c55af44e04da4f14580841404fccc9342a9e8864ede9fa0a",
+            "uid": "df6e5be059083de2ee51543d0232e519",
+            "username": "bluestrike2"
+        },
+        "merkle_root": {
+            "ctime": 1499785464,
+            "hash": "f3870f49562468327a91d34d3d42c82e98ed3e98766fada33a3abf0d8f0a53a58369c3bc3e860e095d7110456dd59bf8b6baa0d0cec84f852795620f62afd967",
+            "hash_meta": "8542e93520d167c949bbda1a441024532c6c937bf862ef1c1aeb216ea3843f75",
+            "seqno": 1225441
+        },
+        "service": {
+            "hostname": "stoeckle.in",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.24"
+    },
+    "ctime": 1499785468,
+    "expire_in": 504576000,
+    "prev": "a0862a8d2d597f1ea475d0b41af26982c279785196aea073d53fe85b3add6086",
+    "seqno": 19,
+    "tag": "signature"
+}
